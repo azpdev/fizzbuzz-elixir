@@ -1,6 +1,6 @@
 # Fizzbuzz
 
-**TODO: Add description**
+Simple command line fizz buzz as I tested out how to do looping in Elixir
 
 ## Installation
 
